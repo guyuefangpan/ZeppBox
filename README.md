@@ -1,2 +1,6 @@
 # ZeppBox
-ZeppBox｜All‑in‑one Android debugging tool for Xiaomi Smart Band7. BLE direct connection, app &amp; watchface sideload, BLE log analyzer, open‑source.
+ZeppBox是面向小米手环7打造的一体化辅助开发安卓工具，脱离Zepp Life、小米运动健康官方App，依靠BLE蓝牙直连协议，输入手环MAC地址与Auth‑Key即可建立通信连接，支持断线自动重连。
+ 
+软件核心面向Zepp‑OS第三方开发者，内置完整BLE协议调试套件。支持批量安装小程序、自定义表盘，任务队列管理，一键推送安装包到手环快速实测，省去繁琐的调试流程。具备完整蓝牙通信日志记录功能，数据包实时导出筛选，定位通信报错、安装故障。同时可以一键读取固件版本、序列号、硬件型号等完整设备信息，实时监控蓝牙信号强度、设备电量状态。
+ 
+配套3×2桌面小组件，无需打开软件即可查看手环状态。项目完全免费开源，无广告与内购，内置BLE通信桥接API，可供其他程序二次调用，降低手环第三方程序开发门槛，完善手环自定义开发生态，仅供技术学习交流使用。
